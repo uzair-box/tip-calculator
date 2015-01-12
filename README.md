@@ -9,4 +9,6 @@ Completed Stories:
 The basic tip calculator app + the ability to defin a default tip percentage were completed
 
 Walkthrough
-Please see the file: TipCalculatorWalkthrough.gif
+
+![alt tag](https://github.com/uzair-box/tip-calculator/blob/master/TipCalculatorWalkthrough.gif)
+
